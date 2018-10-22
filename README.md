@@ -70,3 +70,4 @@ Your final product will be assessed on the following metrics:
 
 Data Boot Camp (C) 2018. All Rights Reserved.
 # leaflet-homework
+# leaflet-earthquake-homework
